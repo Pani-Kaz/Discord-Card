@@ -1,6 +1,7 @@
 <h1 align='left'>Discord Card</h1>
 
 <p align='left'>Discord card in browser</p>
+
 ![Screenshot_22](https://github.com/Pani-Kaz/Discord-Card/assets/88319450/109e5932-7551-4b44-adac-88efae05e507)
 
 ###
